@@ -17,5 +17,5 @@ I am working through a structured 365-day cybersecurity plan covering networking
 ## Ethical Practice
 I only test systems that I own, official training platforms, or systems where I have written permission.
 
- Contact
+## Contact
 - Email: thereindolf@gmail.com or reindolf.adusei-poku@stu.ucc.edu.gh
